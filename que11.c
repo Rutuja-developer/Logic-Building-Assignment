@@ -1,4 +1,4 @@
-// write a program which accept one number from user and print that number of even number on screen.
+// accept one number from user and print that number of even number on screen.
 #include<stdio.h>
 void PrintEven(int iNo)
 {
