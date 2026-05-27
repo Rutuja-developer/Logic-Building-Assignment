@@ -1,6 +1,4 @@
 //Accept one character from user and convert case of that character.
-//Input : a             Ouput : A
-//Input : d             Ouput : D
 
 #include<stdio.h>
 
